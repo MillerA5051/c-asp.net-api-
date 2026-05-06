@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oRfTSFgagfQ=",
+  "success": true,
+  "projectFilePath": "C:\\projects\\sre-observability\\SREApi\\SREApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaron\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\prometheus-net\\8.2.1\\prometheus-net.8.2.1.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\prometheus-net.aspnetcore\\8.2.1\\prometheus-net.aspnetcore.8.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

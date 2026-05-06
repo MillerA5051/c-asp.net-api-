@@ -1,0 +1,15 @@
+localhost:8080/metrics
+- raw source
+plain text http response that c# app generates
+
+localhost:9090 
+- prometheus ui
+
+localhost:3000
+- grafana
+
+
+
+running python -m locust -f locustfile.py --host=http://localhost:8080
+ go to http://localhost:8089/
+ for locust and load testing
